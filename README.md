@@ -7,4 +7,11 @@ Innovative technologies always provides an aid for the accomplishment of certain
 
 **Find the paper [here](https://ieeexplore.ieee.org/document/9290649)**
 
+temporary import of the images
+
+_OR_ 
+![](https://github.com/thecrazyphysicist369/Reversible-Universal-Quadruple-Logic-Gates/blob/master/Images/OR.jpg)
+
+
+
 ***To be continued...**

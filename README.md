@@ -9,9 +9,11 @@ Innovative technologies always provides an aid for the accomplishment of certain
 
 temporary import of the images
 
-_OR_ 
+### OR 
 ![](https://github.com/thecrazyphysicist369/Reversible-Universal-Quadruple-Logic-Gates/blob/master/Images/OR.jpg)
 
+### AND
+![](https://github.com/thecrazyphysicist369/Reversible-Universal-Quadruple-Logic-Gates/blob/master/Images/and.jpg)
 
 
 ***To be continued...**

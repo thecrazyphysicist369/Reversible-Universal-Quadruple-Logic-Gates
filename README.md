@@ -13,7 +13,7 @@ temporary import of the images
 ![](https://github.com/thecrazyphysicist369/Reversible-Universal-Quadruple-Logic-Gates/blob/master/Images/OR.jpg)
 
 ### Table for OR
-![]()
+![](https://github.com/thecrazyphysicist369/Reversible-Universal-Quadruple-Logic-Gates/blob/master/Images/or%20table.jpg)
 
 ### AND
 ![](https://github.com/thecrazyphysicist369/Reversible-Universal-Quadruple-Logic-Gates/blob/master/Images/and.jpg)
